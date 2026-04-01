@@ -17,3 +17,6 @@ __pycache__/
 
 # logs
 *.log
+
+credentials.json
+*.json
